@@ -43,3 +43,6 @@ Thumbs.db
 .neon
 create_pr.ps1
 build_output.txt
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
