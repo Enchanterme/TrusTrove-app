@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "enchantmer",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "enchantmer": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "enchantmer",
+    "origin"
+  ]
+}
